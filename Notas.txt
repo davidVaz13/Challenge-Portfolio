@@ -1,0 +1,115 @@
+/* Sessão Title
+
+section.title{
+
+}
+
+/*Sessão About*/
+
+section.about{
+
+}
+
+/*Sessão Hobbies*/
+
+section.hobbies{
+    
+}
+
+/* Experiência Acadêmica*/
+
+section.academic{
+
+}
+
+/* experiência*/
+
+section.experience{
+
+}
+
+/*Contato*/
+
+section.formcontato{
+
+}
+
+/*footeer*/
+
+section.footer{
+   
+}
+
+/* Chegou a hora de se desafiar com a responsividade, 
+utilize como referência os breakpoints @media abaixo*/
+
+/*Tablet*/
+@media (min-width: 768px) {
+
+/* Menu */
+
+/*title*/
+
+/*Skills*/
+
+/*Hobbies*/
+
+/*Experiências acadêmicas*/
+
+/*Expeirência profissional*/
+
+}
+
+/*Mobile*/
+@media (min-width: 425px) {
+
+/*Menu*/
+
+/*Titulo*/
+
+/*Sessão sobre*/
+
+/*Skills*/
+
+/*Hobbies*/
+ 
+/*Formação Acadêmica*/
+
+/*Experiência Profissional*/
+
+ /*Contato*/
+
+/*Footer*/
+
+ */
+
+
+
+
+<div class="experience__box">
+            <!-- Insira a logo de seu projeto/trabalho -->
+            <img class="experience__img" src="">
+            <div class="experience__info"
+                <h2 class="experience__title">Decodificador de texto</h2>
+                <h3 class="experience__text">Challenge Alura Codificador </h3>
+                    <div class="experience__description">
+                        <!-- Insira a link para demonstração do projeto no Github e/ou GithubPages -->
+                            <span class="experience__repo"><a href=""><button class="experience__botao--repo">Repositório</button></a></span>
+                            <span class="experience__demo"><a href=""><button class="experience__botao--demo">Ver demo</button></a></span>
+                    </div>
+            </div>
+        </div>  
+
+        <div class="experience__box">
+            <!-- Insira a logo de seu projeto/trabalho -->
+            <img class="experience__img" src="">
+            <div class="experience__info"
+            <h2 class="experience__title">Jogo criado com HTML, CSS e JavaScript</h2>
+                <h3 class="experience__text">Challenge Oracle </h3>
+                    <div class="experience__description">
+                        <!-- Insira a link para demonstração do projeto no Github e/ou GithubPages -->
+                            <span class="experience__repo"><a href=""><button class="experience__botao--repo">Repositório</button></a></span>
+                            <span class="experience__demo"><a href=""><button class="experience__botao--demo">Ver demo</button></a></span>
+                    </div>
+        </div>
+        </div>  
